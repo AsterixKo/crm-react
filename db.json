@@ -34,6 +34,22 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo con juan",
+      "email": "uno@google.com",
+      "telefono": "3333333333",
+      "notas": "nota1 de juan",
+      "id": 6
+    },
+    {
+      "nombre": "Maria",
+      "empresa": "Codigo con juan",
+      "email": "maria@google.com",
+      "telefono": "444444444",
+      "notas": "notas de Maria",
+      "id": 7
     }
   ]
 }
