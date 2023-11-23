@@ -4,7 +4,8 @@ import { obtenerClientes } from "../data/Clientes";
 
 export function loader() {
   // console.log(import.meta.env);
-  return obtenerClientes();
+  const clientes = obtenerClientes();
+  return clientes;
 }
 
 export const Index = () => {
