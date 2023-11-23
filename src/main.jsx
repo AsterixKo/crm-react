@@ -34,6 +34,7 @@ const router = createBrowserRouter([
         path: "/clientes/:clienteId/editar",
         element: <EditarCliente />,
         loader: editarClientesLoader,
+        errorElement: <ErrorPage />,
       },
     ],
   },
